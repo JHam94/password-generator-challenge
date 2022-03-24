@@ -12,7 +12,9 @@ This challenge required the creation of a random password generator based on the
 
 # Website
 
-Link to deployed application: 
+Link to GitHub page: https://github.com/JHam94/password-generator-challenge
+
+Link to deployed application: https://jham94.github.io/password-generator-challenge/ 
 
 ![image](https://user-images.githubusercontent.com/98374207/159787470-bca3a20e-7dd7-485d-a22b-fb5b758254ef.png)
 ![image](https://user-images.githubusercontent.com/98374207/159787559-9c9b8406-dad7-4f03-b7ff-60ecebec010f.png)
